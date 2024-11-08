@@ -190,9 +190,20 @@ input, select, textarea {
 		p.major {
 			font-size: 1.25rem;
 		}
+
+
 	p.InfoM{
 		font-size: 100%;
 	}
+	ul.Ver_Carta{
+		text-align: center;
+	}
+	p.pedir{
+		text-align: justify;
+		font-size: 120%;
+		padding: 40px;
+	}
+
 	p.precio{
 		font-size: 180%;
 	}
